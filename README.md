@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vijay Aadhithya M
-- 👀 I’m interested in Webdevelopment and mobile app development
+- 👀 I’m interested in Webdevelopment.
 - 🌱 I’m currently learning Design elements
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... m.vijayaadhithya@gmail.com
